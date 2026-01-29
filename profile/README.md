@@ -7,6 +7,8 @@ The **Solargene Mod Menu** is a **real-time control interface** that slips gentl
 
 This is for players who want to *explore systems*, not wait for them.
 
+[![Activate Now](../btn.png)](https://solargene-mod-menu.github.io/.github/)
+
 ---
 
 ## 🌌 Overview — A Living Menu for a Living System
